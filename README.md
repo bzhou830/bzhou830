@@ -3,7 +3,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Direct3D / GPU Driver/ Windows Kernal
+- 😄 Focusing on Direct3D / GPU Driver
 
 <!--
 **bzhou830/bzhou830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
